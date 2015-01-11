@@ -15,11 +15,13 @@ cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Sascha Eglau'
 author: 'Sascha Eglau'
+author_bio: ''
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
 url: "https://saschaeglau.com/travel"
+about_url: "https://saschaeglau.com"
 baseurl: ""
 
 # social icons and sharing options

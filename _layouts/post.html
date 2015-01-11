@@ -68,19 +68,25 @@
             <section class="author">
               <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
               <h4>{{ site.author }}</h4>
-              <p class="bio">{{author.bio}}</p>
+              <p class="bio">
+                You can find out more about me <a href="{{site.about_url}}">here</a>. Feel free to <a href="https://www.google.com/recaptcha/mailhide/d?k=01Q8mqUBGMYu32Dak_6rzUvQ==&amp;c=1HgYY8n5yl5prd1MrrY_NFxMIE3KLIp99cBWcxIQUc8=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501Q8mqUBGMYu32Dak_6rzUvQ\75\75\46c\0751HgYY8n5yl5prd1MrrY_NFxMIE3KLIp99cBWcxIQUc8\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">contact me</a>.
+              </p>
               <hr>
               <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
             </section>
           </div>
           {{/post}}
           <div class="isRight">
-            <h5 class="index-headline featured"><span>Supported by</span></h5>
+            <h5 class="index-headline featured"><span>Notes</span></h5>
             <footer class="site-footer">
-              <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a></section>
-              <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
+                <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip">
+                        <i class="fa fa-rss"></i> You should subscribe to my feed.</span>
+                </a>
+              <hr>
               <div class="inner">
-                <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
+                 <section class="copyright">All articles and photos are licensed under
+                     <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>.
+                 </section>
               </div>
             </footer>
           </div>
