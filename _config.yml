@@ -9,20 +9,20 @@ description: > # this means to ignore newlines until "email:"
 
 email: se@saschaeglau.com
 #blog logo
-logo: "/assets/images/logo.jpg"
+logo: "/travel/assets/images/logo.jpg"
 # blog cover
-cover: "/assets/images/cover.jpg"
+cover: "/travel/assets/images/cover.jpg"
 
 name: 'Sascha Eglau'
 author: 'Sascha Eglau'
 author_bio: ''
-author_image: "/assets/images/author.jpg"
+author_image: "/travel/assets/images/author.jpg"
 
 paginate:	5
 
 url: "https://saschaeglau.com/travel"
 about_url: "https://saschaeglau.com"
-baseurl: ""
+baseurl: "/travel"
 
 # social icons and sharing options
 social:
