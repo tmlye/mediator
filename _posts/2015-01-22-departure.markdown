@@ -3,7 +3,7 @@ layout: post
 title:  "The First Few Days"
 date:   2015-01-22 14:34:25
 categories: germany france
-tags: featured
+tags: 
 ---
 After months of not-so-intense preparation, the week leading up to our departure was filled with preparing for this trip. Packing and organizing a few more items that we needed took longer than we had expected, but we finally left on Sunday morning, a relatively sunny day.
 
