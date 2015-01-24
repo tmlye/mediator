@@ -2,8 +2,8 @@
 layout: post
 title:  "The First Few Days"
 date:   2015-01-22 14:34:25
-categories: germany france
-tags: 
+categories: europe
+tags: germany france
 ---
 [pic0]: https://saschaeglau.com/upload/travel/1-0.jpg "Colmar"
 [pic1]: https://saschaeglau.com/upload/travel/1-1.jpg "Colmar"
