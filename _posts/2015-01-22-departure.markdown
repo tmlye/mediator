@@ -5,9 +5,9 @@ date:   2015-01-22 14:34:25
 categories: europe
 tags: germany france
 ---
-[pic0]: https://saschaeglau.com/upload/travel/1-0.jpg "Colmar"
-[pic1]: https://saschaeglau.com/upload/travel/1-1.jpg "Colmar"
-[pic2]: https://saschaeglau.com/upload/travel/1-2.jpg "Colmar"
+[pic0]: https://saschaeglau.com/upload/travel/1/0.jpg "Colmar"
+[pic1]: https://saschaeglau.com/upload/travel/1/1.jpg "Colmar"
+[pic2]: https://saschaeglau.com/upload/travel/1/2.jpg "Colmar"
 After months of not-so-intense preparation, the week leading up to our departure was filled with preparing for this trip. Packing and organizing a few more items that we needed took longer than we had expected, but we finally left on Sunday morning, a relatively sunny day.
 
 Our motorcycles, two Honda Transalp, are not too heavily packed, we attached three aluminium cases and use a tank bag to transport our equipment. I believe we found a good mix between being prepared for everything and traveling as light as possible. We leave around 11, taking the German Autobahn steadily west towards Karlsruhe  and then south, along the Rhine towards Freiburg. We have to stop every 50kms or so to reanimate our fingers and warm ourselves in the gas station. On the second stop I decide to put on another pair of gloves underneath my bigger ones, but it doesn't help -  the fingers still go numb after a while. We keep this rhythm for the whole way to Freiburg, 30 minutes of cold -  20 minutes of warmth. In the early evening we arrive at Megan's house, where we will spend the night. She is a couchsurfer and lives there with her parents. It's a very cosy, some 300-400 year old house, made almost completely out of wood. She made quiche for dinner and we talk for some time before we head to bed.
