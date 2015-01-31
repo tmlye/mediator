@@ -5,40 +5,47 @@ date: 2015-01-29 19:26:25
 categories: europe
 tags: france spain
 ---
-[pic0]: https://saschaeglau.com/upload/travel/1-0.jpg "Colmar"
-[pic0]: https://saschaeglau.com/upload/travel/1-0.jpg "Colmar"
-[pic0]: https://saschaeglau.com/upload/travel/1-0.jpg "Colmar"
-[pic0]: https://saschaeglau.com/upload/travel/1-0.jpg "Colmar"
-[pic0]: https://saschaeglau.com/upload/travel/1-0.jpg "Colmar"
-[pic0]: https://saschaeglau.com/upload/travel/1-0.jpg "Colmar"
-[pic0]: https://saschaeglau.com/upload/travel/1-0.jpg "Colmar"
-Francois' house is cold, so I'm reluctant to get out of my sleeping bag in the
-morning. When I finally go downstairs, one of the housemates offers me "Madeleines",
-small pieces of cake, and tea; both of which I gladly accept. Later in the day,
-Francois takes us to a few fascinating villages in the area. Whole towns made
-up of old stone houses alongside narrow cobblestone roads. Francois tells us
+[pic0]: https://saschaeglau.com/upload/travel/2/0.jpg "French Village"
+[pic1]: https://saschaeglau.com/upload/travel/2/1.jpg "French Village"
+[pic2]: https://saschaeglau.com/upload/travel/2/2.jpg "Break on the coast"
+[pic3]: https://saschaeglau.com/upload/travel/2/3.jpg "Cadaques"
+[pic4]: https://saschaeglau.com/upload/travel/2/4.jpg "Cadaques"
+[pic5]: https://saschaeglau.com/upload/travel/2/5.jpg "Cap-de-Creus"
+[pic6]: https://saschaeglau.com/upload/travel/2/6.jpg "Cap-de-Creus"
+[pic7]: https://saschaeglau.com/upload/travel/2/7.jpg "Coastal road"
+[pic8]: https://saschaeglau.com/upload/travel/2/8.jpg "Coastal road"
+After the first night at François' house, he takes us to a few fascinating villages in the area. Whole towns made
+up of old stone houses alongside narrow cobblestone roads. He tells us
 that these are full of tourists in the summer, but we're alone now -- not even
 locals seem to go outside in the Winter. I would tell you the names of these
 places, but I don't remember them.
 
-In the evening we go to a small gathering with Francois and most of the
+![][pic0]
+![][pic1]
+
+In the evening we go to a small gathering with François and most of the
 housemates. Fred, a friend of theirs (and now ours), invited them over.
 We bring food, which is being prepared and eaten bit by bit over the course of
-a few hours. To Germans, the French eating style takes a bit of getting used to:
+a few hours. It's topped off with a gallette des rois, of course.
+
+To Germans, the French eating style takes a bit of getting used to:
 you basically spend all evening eating little by little, taking breaks in
-between, talk a lot and drink different things. This whole process takes hours
+between, talking a lot and drinking different things. This whole process takes hours
 and when you think it's finally over, they bring out cheese, which (of course)
 has to be accompanied by a different drink than you had before.
 My grandparents on the other hand finish a three course meal including a salad,
 a main dish and dessert in less than 40 minutes.
-Overall the French eating style is a very enjoyable experience,
+Don't get me wrong, the French eating style is a very enjoyable experience,
 just unusual for us.
-The next day we do mostly nothing, just read and help Francois clean the staple
+The next day we do mostly nothing, just read and help François clean the staple
 for the 8 chickens they have. One of the chickens left an egg as a reward.
 
 We leave the next day and drive to Lunel, a city near Montpellier and spend
-the night there in a cheap hotel. We also spend the next day on the road, this
-time heading into the Pyrenees, to a town called Saint-Laurent-de-Cerdans,
+the night there in a cheap hotel. We also spend the next day on the road, stopping on the Mediterranean coast for a break.
+
+![][pic2]
+
+Afterwards, we head up winding roads into the Pyrenees, to a town called Saint-Laurent-de-Cerdans,
 where Martin, our couchsurfing host welcomes us. He's 67 and has to use an
 oxygen concentrator while walking up the stairs, but is mentally fit. We talk
 for quite some time near the wood stove, the only warm place in the house.
@@ -70,17 +77,25 @@ Riding on this road in sunny weather is fun and we eat a very late
 (and surprisingly cheap) lunch in Cadaques near the seaside. Lorenz asks the
 waitress for an "habitacion" and she gives us directions in Spanish, talking
 faster than a machine gun can shoot. We didn't understand her fully, but we
-made that up by driving around aimlessly for a while until we found it.
+make it up by driving around aimlessly for a while until we find it.
 
 The next day we visit the nearby Cap de Creus, also along curvy roads and in
 sunny weather. The landscape is incredibly rough, similar to what you would
 see in pictures sent to Earth by a Mars rover. I highly recommend everyone
-who goes to the area to visit Cadaques/Cap de Creus, I think the pictures speak
-for themselves.
+who goes to the area to visit Cadaques/Cap de Creus.
+
+![][pic3]
+![][pic4]
+![][pic5]
+![][pic6]
+
 We try to get out of the region by using a gravel road,
 but it's not allowed for motorcycles. So we take the same curvy road back,
-which is fun too. Not too far later, we drive from Sant Feliu de Guixols
-to Tossa de Mar, also a very scenic and fun road.
+which is fun, too. Not too far later, we drive from Sant Feliu de Guixols
+to Tossa de Mar, also a very scenic and fun road, this time along the coast.
+
+![][pic7]
+![][pic8]
 
 Our target for today is Lloret de Mar,
 a town most Europeans know for drinking and partying. In the
