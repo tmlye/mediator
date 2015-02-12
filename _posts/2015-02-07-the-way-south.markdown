@@ -40,7 +40,7 @@ On our way to Cubelles, we stop in Vilanova, where we visit a Honda dealer. The 
 
 ![][pic-fixing-bikes]
 
-We eat dinner with Meritxell, talk for long and try to play Durak, a Russian. card game, but we can't get the rules right, even with the help of Wikipedia. Well, it's fun anyways. The next day, we visit a Buddhist monastery together with Meritxell and her brother. Afterwards, we walk around Sitges, a pretty town on the seaside, eat lunch and take a walk along the beach in sunny but windy weather; we had a wonderful day, thank you Meritxell!
+We eat dinner with Meritxell, talk for long and try to play Durak, a Russian card game, but we can't get the rules right, even with the help of Wikipedia. Well, it's fun anyways. The next day, we visit a Buddhist monastery together with Meritxell and her brother. Afterwards, we walk around Sitges, a pretty town on the seaside, eat lunch and take a walk along the beach in sunny but windy weather; we had a wonderful day, thank you Meritxell!
 
 ![][pic-monastery]
 ![][pic-sitges-1]
