@@ -28,7 +28,7 @@ The national park provides stunning views and green valleys in which the cherry 
 ![](https://saschaeglau.com/upload/travel/4/8.jpg "Al Hoceima National Park")
 ![](https://saschaeglau.com/upload/travel/4/9.jpg "Al Hoceima National Park")
 
-We leave Al Hoceima behind and head to Chefchaouen through the Rif Mountains, an area that is famous for being the world's largest producer of Marihuana. The people say that even the soil here is addicted to it, meaning that it doesn't grow anything else. It's not quite true of course and the markets we pass by, filled with fresh fruits and vegetables, prove it. The whole way to Chefchouaen is beautiful and we record a lot of videos, which I, unfortunately, cannot upload over mobile internet. I will publish them in a separate post soon (I hope).
+We leave Al Hoceima behind and head to Chefchaouen through the Rif Mountains, an area that is famous for being the world's largest producer of Marijuana. The people say that even the soil here is addicted to it, meaning that it doesn't grow anything else. It's not quite true of course and the markets we pass by, filled with fresh fruits and vegetables, prove it. The whole way to Chefchouaen is beautiful and we record a lot of videos, which I, unfortunately, cannot upload over mobile internet. I will publish them in a separate post soon (I hope).
 
 ![](https://saschaeglau.com/upload/travel/4/10.jpg "Way to Chefchaouen")
 ![](https://saschaeglau.com/upload/travel/4/13.jpg "View towards Jebha") ![](https://saschaeglau.com/upload/travel/4/14.jpg "Way to Chefchaouen") ![](https://saschaeglau.com/upload/travel/4/15.jpg "Way to Chefchaouen")
