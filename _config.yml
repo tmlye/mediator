@@ -62,7 +62,6 @@ picture:
         default:
            ppi: [1, 1.5]
            attr:
-             # class: "gallery-pict"
              itemprop: "image"
            source_medium:
              media: "(min-width: 40em)"
