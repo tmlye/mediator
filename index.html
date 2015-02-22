@@ -2,10 +2,13 @@
 layout: default
 ---
 
-<div class="teaserimage">
-    <div class=teaserimage-image> {% if site.cover %}{% picture default {{ site.cover }} %}{% endif %}
+{% if site.cover %}
+<div class="cover">
+    <div class="cover-image">
+        {% picture default {{ site.cover }} %}
     </div>
 </div>
+{% endif %}
 
 <header class="blog-header">
     {% if site.logo %}
