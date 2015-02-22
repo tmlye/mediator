@@ -11,7 +11,7 @@ email: se@saschaeglau.com
 #blog logo
 logo: "/travel/assets/images/logo.jpg"
 # blog cover
-cover: "/travel/assets/images/cover.jpg"
+cover: "../upload/travel/cover.jpg"
 
 name: 'Sascha Eglau'
 author: 'Sascha Eglau'
@@ -53,3 +53,8 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+picture:
+    markup: "picture"
+    output: "assets/images"
+    source: "../upload/travel"
