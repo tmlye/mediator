@@ -57,7 +57,7 @@ social:
 picture:
     markup: "picture"
     output: "assets/images"
-    source: "/upload/travel"
+    source: "$HOME/upload/travel"
     presets:
         default:
            ppi: [1, 1.5]
