@@ -66,6 +66,5 @@ picture:
            source_medium:
              media: "(min-width: 40em)"
              width: "600"
-             height: "300"
            source_default:
              width: "300"
