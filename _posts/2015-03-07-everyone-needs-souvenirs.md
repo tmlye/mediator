@@ -25,8 +25,8 @@ Except for a cyclist from Austria, we don't meet a single person on the way up.
 [{% picture 7/4.jpg %}][4]
 
 The next morning, before we even have breakfast, we see two people on a moped approach.
-Wondering what they want from us we watch them approach.
-It's a man and a woman and the closer they get the more sure we are that they want to sell something.
+Wondering what they want from us we watch them carefully.
+It's a man and a woman. The closer they get the more sure we are that they want to sell something.
 The man speaks little English.
 He does all the talking: the usual questions.
 After a while the woman starts unwrapping her souvenir store.
@@ -87,7 +87,7 @@ Nevertheless, seeing how well adjusted this animal is to its harsh environment i
 [{% picture 7/17.jpg %}][17]
 [{% picture 7/18.jpg %}][18]
 
-After the desert we head towards Marrakech.
+After the desert, we head towards Marrakech.
 We stop on the way to look at stone carvings.
 They were made during a time when elephants, antilopes and lions still lived in Morocco.
 Our next stop is Ouarzazate, where we visit a Kasbah.
