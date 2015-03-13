@@ -19,6 +19,10 @@ Except for a cyclist from Austria, we don't meet a single person on the way up.
 [2]: https://saschaeglau.com/upload/travel/7/2.jpg "Tizi-N-Tazazert"
 [3]: https://saschaeglau.com/upload/travel/7/3.jpg "Tizi-N-Tazazert"
 [4]: https://saschaeglau.com/upload/travel/7/4.jpg "Tizi-N-Tazazert"
+[{% picture 7/1.jpg %}][1]
+[{% picture 7/2.jpg %}][2]
+[{% picture 7/3.jpg %}][3]
+[{% picture 7/4.jpg %}][4]
 
 The next morning, before we even have breakfast, we see two people on a moped approach.
 Wondering what they want from us we watch them approach.
@@ -44,6 +48,11 @@ Inshallah it will.
 [7]: https://saschaeglau.com/upload/travel/7/7.jpg "Tizi-N-Tazazert"
 [8]: https://saschaeglau.com/upload/travel/7/8.jpg "Tizi-N-Tazazert"
 [9]: https://saschaeglau.com/upload/travel/7/9.jpg "Tizi-N-Tazazert"
+[{% picture 7/5.jpg %}][5]
+[{% picture 7/6.jpg %}][6]
+[{% picture 7/7.jpg %}][7]
+[{% picture 7/8.jpg %}][8]
+[{% picture 7/9.jpg %}][9]
 
 Once we reach the end of the piste, we head towards the desert.
 While the landscape is getting dryer and dryer, the contrast between the oases near the rivers and the rest of the land is getting bigger.
@@ -52,6 +61,7 @@ The owner invites us to tea and dates.
 They're delicious.
 
 [10]: https://saschaeglau.com/upload/travel/7/10.jpg "Oasis near Tizi-N-Tazazert"
+[{% picture 7/10.jpg %}][10]
 
 Near the beginning of the desert, we find a nice "campsite" where we spend one night.
 The next day we take a Toyota Landcruiser to Erg Chegaga, a place where high dunes live.
@@ -68,6 +78,14 @@ Nevertheless, seeing how well adjusted this animal is to its harsh environment i
 [16]: https://saschaeglau.com/upload/travel/7/16.jpg "Erg Chegaga"
 [17]: https://saschaeglau.com/upload/travel/7/17.jpg "Erg Chegaga"
 [18]: https://saschaeglau.com/upload/travel/7/18.jpg "Erg Chegaga"
+[{% picture 7/11.jpg %}][11]
+[{% picture 7/12.jpg %}][12]
+[{% picture 7/13.jpg %}][13]
+[{% picture 7/14.jpg %}][14]
+[{% picture 7/15.jpg %}][15]
+[{% picture 7/16.jpg %}][16]
+[{% picture 7/17.jpg %}][17]
+[{% picture 7/18.jpg %}][18]
 
 After the desert we head towards Marrakech.
 We stop on the way to look at stone carvings.
@@ -78,6 +96,9 @@ It's empty on the inside, but the outside is a pleasant sight.
 [19]: https://saschaeglau.com/upload/travel/7/19.jpg "Stone Carving"
 [20]: https://saschaeglau.com/upload/travel/7/20.jpg "Stone Carvings"
 [21]: https://saschaeglau.com/upload/travel/7/21.jpg "Ouarzazate"
+[{% picture 7/19.jpg %}][19]
+[{% picture 7/20.jpg %}][20]
+[{% picture 7/21.jpg %}][21]
 
 The way to Marrakech continues over the Atlas mountains on a surprisingly narrow road, considering that this is one of the main roads connecting the coastal region with the eastern part of Morocco.
 The mountain pass is scenic and fun to drive.
@@ -87,6 +108,10 @@ I record a lot of it, but haven't uploaded the footage, yet.
 [23]: https://saschaeglau.com/upload/travel/7/23.jpg "Way to Tizi-N-Tazazert"
 [24]: https://saschaeglau.com/upload/travel/7/24.jpg "Way to Tizi-N-Tazazert"
 [25]: https://saschaeglau.com/upload/travel/7/25.jpg "Way to Tizi-N-Tazazert"
+[{% picture 7/22.jpg %}][22]
+[{% picture 7/23.jpg %}][23]
+[{% picture 7/24.jpg %}][24]
+[{% picture 7/25.jpg %}][25]
 
 We reach Marrakesh and are immediately drawn into the chaos.
 Our hotel is in the medina and claims to have private parking on their website.
