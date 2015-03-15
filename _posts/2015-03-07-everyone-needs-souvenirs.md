@@ -104,10 +104,10 @@ The way to Marrakech continues over the Atlas mountains on a surprisingly narrow
 The mountain pass is scenic and fun to drive.
 I record a lot of it, but haven't uploaded the footage, yet.
 
-[22]: https://saschaeglau.com/upload/travel/7/22.jpg "Way to Tizi-N-Tazazert"
-[23]: https://saschaeglau.com/upload/travel/7/23.jpg "Way to Tizi-N-Tazazert"
-[24]: https://saschaeglau.com/upload/travel/7/24.jpg "Way to Tizi-N-Tazazert"
-[25]: https://saschaeglau.com/upload/travel/7/25.jpg "Way to Tizi-N-Tazazert"
+[22]: https://saschaeglau.com/upload/travel/7/22.jpg "Way from Ouarzazate to Marrakech"
+[23]: https://saschaeglau.com/upload/travel/7/23.jpg "Way from Ouarzazate to Marrakech"
+[24]: https://saschaeglau.com/upload/travel/7/24.jpg "Way from Ouarzazate to Marrakech"
+[25]: https://saschaeglau.com/upload/travel/7/25.jpg "Way from Ouarzazate to Marrakech"
 [{% picture 7/22.jpg %}][22]
 [{% picture 7/23.jpg %}][23]
 [{% picture 7/24.jpg %}][24]
