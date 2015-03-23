@@ -11,7 +11,7 @@ On the fourth day, we pick up Katherine, my girlfriend, from the airport.
 She will travel with us for two weeks.
 We spend much of the free time reading and updating our blogs.
 I've created and added a map which shows our route.
-You can take a look at it [here][/route].
+You can take a look at it [here](/travel/route).
 
 [1]: https://saschaeglau.com/upload/travel/8/1.jpg "View from our accomodation"
 [2]: https://saschaeglau.com/upload/travel/8/2.jpg "Courtyard in our accomodation"
