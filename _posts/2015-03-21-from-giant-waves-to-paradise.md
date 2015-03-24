@@ -70,5 +70,5 @@ With the wheel back on the bike we continue further to Tafraoute.
 It's cold and rains on and off.
 Not a pleasant weather to drive in.
 
-[9]: https://saschaeglau.com/upload/travel/8/9.jpg "Way to Tafraoute"
-[{% picture 8/9.jpg %}][9]
+[9]: https://saschaeglau.com/upload/travel/9/9.jpg "Way to Tafraoute"
+[{% picture 9/9.jpg %}][9]
