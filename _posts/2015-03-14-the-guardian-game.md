@@ -57,7 +57,7 @@ Of course he cannot do that, because there is no such thing as official rates.
 He keeps asking for his money and we keep asking for the rates.
 After a while he gets angry and calls over his colleagues.
 Pretty soon there's around 5 people yelling at us.
-One of them is especially angry and kicks one of my aluminum boxes.
+One of them is especially angry and kicks one of my aluminium boxes.
 Noticing that his foot is not strong enough, he goes and picks up a stone.
 I threaten to call the police.
 He drops the stone.
