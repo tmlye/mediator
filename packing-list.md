@@ -3,8 +3,12 @@ layout: page
 title: Packing List
 permalink: /packing-list/
 ---
+This is our packing list for the 5-6 month journey.
+There are some things on this list which are not really needed, but we took them because we had space.
+A large part of the space is taken up by camping equipment, spare parts and tools.
 
 ## Electronics:
+
 
 * Nikon AW100
 * Additional Battery for AW100
@@ -30,6 +34,7 @@ permalink: /packing-list/
 
 ## Clothing:
 
+
 * Cap
 * Fleece
 * Rain Jacket
@@ -53,6 +58,7 @@ permalink: /packing-list/
 
 ## Camping/Cooking Equipment:
 
+
 * Sleeping Bag (Nordisk Nuuk)
 * Inflatable Mattress
 * Tent (Xtend Adventure Breeze 2 Light)
@@ -64,6 +70,7 @@ permalink: /packing-list/
 * Lighter/Matches
 
 ## Hygene/Creams/Repellent:
+
 
 * Towel
 * Toothbrush
@@ -80,6 +87,7 @@ permalink: /packing-list/
 
 ## Survival/Medicine:
 
+
 * Headlamp
 * Leatherman Blast
 * Survival Belt
@@ -91,7 +99,8 @@ permalink: /packing-list/
 * Wound Spray
  
 ## Documents/Various:
- 
+
+
 * Straps
 * Bank Card
 * Credit card
@@ -119,6 +128,7 @@ permalink: /packing-list/
 
 ## Tools/Adhesives/Grease:
 
+
 * Ratchet Kit
 * Spark Plug Socket
 * Allen Key, var. sizes
@@ -145,6 +155,7 @@ permalink: /packing-list/
 * Chain lubricant
 
 ## Spare Parts:
+
 
 * Air filter
 * Chain and sprockets
