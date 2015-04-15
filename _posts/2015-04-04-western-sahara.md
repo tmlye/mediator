@@ -11,7 +11,7 @@ The rest is mostly empty.
 We leave Marrakech quite late, as we bought some supplies.
 The highway to Agadir is not cheap, but quick.
 I enjoy the feeling of making progress.
-After quite some time, we're moving towards a new country, new landscapes and a new climate.
+After quite some time, we're finally moving towards a new country, new landscapes and a new climate.
 Morocco has become too familiar to us and it's starting to get boring.
 After spending the day driving, we reach Tiznit.
 It's a small town.
@@ -89,7 +89,7 @@ Many kitesurfers stay here to take advantage of the steady wind and the large la
 We reach the border post, where we will spend the night.
 Spotting some kids playing on the street, we take a closer look at the old Mercedes Sprinter 208 (iirc).
 They're Austrian! A family with four kids traveling together, great.
-They are coming from Mauretania and give us tons of valuable information.
+They are coming from Mauritania and give us tons of valuable information.
 We spent the whole evening in their car, talking about many things.
 A fun night before we cross the border tomorrow.
 It's going to be an expensive day, this much we know.
