@@ -20,7 +20,6 @@ Most of them stay for a few days until they're full, before they travel as far a
 There's also women carrying buckets on their head, presumably with fish inside.
 There's goats walking around and horse carriages on the road.
 
-https://youtube.com/embed/MZfdDu_bwLw
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MZfdDu_bwLw" frameborder="0" allowfullscreen></iframe>
 
 We only drive a few kilometers south of Saint Louis to a German run campsite called [7 Palava](http://7palava.com).
