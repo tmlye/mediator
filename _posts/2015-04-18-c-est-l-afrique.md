@@ -5,12 +5,27 @@ date: 2015-04-18 13:37:00
 categories: africa
 tags: senegal
 ---
-*This post will be without images for now, until I have access to a faster Internet connection*
-
-
 We spend our day in Saint Louis walking through the old colonial part of town.
 The houses are in surprisingly good shape and beautifully painted.
 
+[1]: https://saschaeglau.com/upload/travel/13/1.jpg "Fishing Boats in Saint Louis"
+[{% picture 13/1.jpg %}][1]
+[2]: https://saschaeglau.com/upload/travel/13/2.jpg "Saint Louis"
+[{% picture 13/2.jpg %}][2]
+[3]: https://saschaeglau.com/upload/travel/13/3.jpg "Saint Louis"
+[{% picture 13/3.jpg %}][3]
+[4]: https://saschaeglau.com/upload/travel/13/4.jpg "Saint Louis"
+[{% picture 13/4.jpg %}][4]
+[5]: https://saschaeglau.com/upload/travel/13/5.jpg "Saint Louis"
+[{% picture 13/5.jpg %}][5]
+[6]: https://saschaeglau.com/upload/travel/13/6.jpg "Saint Louis"
+[{% picture 13/6.jpg %}][6]
+[7]: https://saschaeglau.com/upload/travel/13/7.jpg "Bus in Saint Louis"
+[{% picture 13/7.jpg %}][7]
+[8]: https://saschaeglau.com/upload/travel/13/8.jpg "Fishing Boats Saint Louis"
+[{% picture 13/8.jpg %}][8]
+[9]: https://saschaeglau.com/upload/travel/13/9.jpg "Fisherman Workshop Saint Louis"
+[{% picture 13/9.jpg %}][9]
 
 The next morning we leave our campsite.
 It is located on the outermost island of Saint Louis, where all the fishing boats lie and arrive.
@@ -21,6 +36,7 @@ There's also women carrying buckets on their head, presumably with fish inside.
 There's goats walking around and horse carriages on the road.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MZfdDu_bwLw" frameborder="0" allowfullscreen></iframe>
+
 
 We only drive a few kilometers south of Saint Louis to a German run campsite called [7 Palava](http://7palava.com).
 The campsite is lovely and was built with attention to detail.
@@ -97,6 +113,12 @@ From time to time we can spot different animals with the binoculars.
 There's countless of birds, but one them sticks out: a rather large white eagle.
 He's not close enough, so we have to use the binoculars as a lens again.
 
+[10]: https://saschaeglau.com/upload/travel/13/10.jpg "Gambia River"
+[{% picture 13/10.jpg %}][10]
+[11]: https://saschaeglau.com/upload/travel/13/11.jpg "White Eagle"
+[{% picture 13/11.jpg %}][11]
+[12]: https://saschaeglau.com/upload/travel/13/12.jpg "View on the Gambia River"
+[{% picture 13/12.jpg %}][12]
 
 Every few minutes or so a hippo's head emerges out of the water, does a few breaths and disappears again.
 In the afternoon, a horde of monkeys takes a bath in the river.
@@ -105,3 +127,18 @@ For a cheap price we get closer to the monkeys(baboons), see antilopes, lizards 
 It's still hot outside, so the hippos decide to stay in the water.
 I would do the same if I were a hippo.
 With nightfall we can hear and see the baboons climbing into the trees to sleep.
+
+[13]: https://saschaeglau.com/upload/travel/13/13.jpg "Gazelle"
+[{% picture 13/13.jpg %}][13]
+[14]: https://saschaeglau.com/upload/travel/13/14.jpg "Lizard in the water"
+[{% picture 13/14.jpg %}][14]
+[15]: https://saschaeglau.com/upload/travel/13/15.jpg "Baboon drinking"
+[{% picture 13/15.jpg %}][15]
+[16]: https://saschaeglau.com/upload/travel/13/16.jpg "The Gambia River"
+[{% picture 13/16.jpg %}][16]
+[17]: https://saschaeglau.com/upload/travel/13/17.jpg "Baboon Family"
+[{% picture 13/17.jpg %}][17]
+[18]: https://saschaeglau.com/upload/travel/13/18.jpg "Selfie on the boat"
+[{% picture 13/18.jpg %}][18]
+[19]: https://saschaeglau.com/upload/travel/13/19.jpg "Nightfall"
+[{% picture 13/19.jpg %}][19]
