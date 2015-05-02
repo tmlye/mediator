@@ -59,8 +59,6 @@ He also takes us to the roof, from which we have a great view of the surrounding
 [{% picture 10/10.jpg %}][10]
 [11]: https://saschaeglau.com/upload/travel/10/11.jpg "Agadir Tasguent"
 [{% picture 10/11.jpg %}][11]
-[12]: https://saschaeglau.com/upload/travel/10/12.jpg "The guardians and us"
-[{% picture 10/12.jpg %}][12]
 
 Returning to our motorcycles, the guardian doesn't ask us for money, but we still pay him very well.
 He clearly needs it.
