@@ -121,7 +121,7 @@ My French is not that great, but I manage to have a slow conversation with our h
 In the dry season he doesn't have much to do, so he's free to answer our questions.
 I ask him why he returned from the city.
 He says that in the village it's quiet and boring, which takes some getting used to, but in the city you have to pay for everything:
-Want to eat? Have to pay. Want to sleep? Have to pay? Want to go to the bathroom? Have to pay.
+Want to eat? Have to pay. Want to sleep? Have to pay. Want to go to the bathroom? Have to pay.
 When we show him some pictures of our journey, all the kids gather round to see them as well.
 I don't think they've seen much of the outside world.
 I manage to explain how snow sledding works and how to build a snowman, but explaining how snow feels seems impossible.
