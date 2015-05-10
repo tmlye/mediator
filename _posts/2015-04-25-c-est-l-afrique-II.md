@@ -185,9 +185,9 @@ The mango trees have tons of ripe fruit hanging from them.
 What makes this camp really great is the river: the water is cool and clean and you can just jump in from the riverbank.
 Which we do.
 
-[26]: https://saschaeglau.com/upload/travel/14/26.jpg "Cool Camp Manantali"
-[{% picture 14/26.jpg %}][26]
 [27]: https://saschaeglau.com/upload/travel/14/27.jpg "Cool Camp Manantali"
 [{% picture 14/27.jpg %}][27]
 [28]: https://saschaeglau.com/upload/travel/14/28.jpg "Cool Camp Manantali"
 [{% picture 14/28.jpg %}][28]
+[29]: https://saschaeglau.com/upload/travel/14/29.jpg "Cool Camp Manantali"
+[{% picture 14/29.jpg %}][29]
