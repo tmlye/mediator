@@ -10,6 +10,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 ## Electronics:
 
 <br/>
+
 * Nikon AW100
 * Additional Battery for AW100
 * Charger for AW100
@@ -35,6 +36,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 ## Clothing:
 
 <br/>
+
 * Cap
 * Fleece
 * Rain Jacket
@@ -59,6 +61,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 ## Camping/Cooking Equipment:
 
 <br/>
+
 * Sleeping Bag (Nordisk Nuuk)
 * Inflatable Mattress (Grand Canyon Cruise 3.0)
 * Tent (Xtend Adventure Breeze 2 Light)
@@ -72,6 +75,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 ## Hygene/Creams/Repellent:
 
 <br/>
+
 * Towel
 * Toothbrush
 * Toothpaste
@@ -88,6 +92,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 ## Survival/Medicine:
 
 <br/>
+
 * Headlamp
 * Leatherman Blast
 * Survival Belt
@@ -101,6 +106,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 ## Documents/Various:
 
 <br/>
+
 * Straps
 * Bank Card
 * Credit card
@@ -129,6 +135,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 ## Tools/Adhesives/Grease:
 
 <br/>
+
 * Ratchet Kit
 * Spark Plug Socket
 * Allen Key, var. sizes
@@ -157,6 +164,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 ## Spare Parts:
 
 <br/>
+
 * Air filter
 * Chain and sprockets
 * Oil filter
