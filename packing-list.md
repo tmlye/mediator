@@ -3,13 +3,13 @@ layout: page
 title: Packing List
 permalink: /packing-list/
 ---
-This is our packing list for the 5-6 month journey.
+This is our packing list for the 4 month long journey.
 There are some things on this list which are not really needed, but we took them because we had space.
 A large part of the space is taken up by camping equipment, spare parts and tools.
 
 ## Electronics:
 
-
+<br/>
 * Nikon AW100
 * Additional Battery for AW100
 * Charger for AW100
@@ -34,7 +34,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 
 ## Clothing:
 
-
+<br/>
 * Cap
 * Fleece
 * Rain Jacket
@@ -58,9 +58,9 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 
 ## Camping/Cooking Equipment:
 
-
+<br/>
 * Sleeping Bag (Nordisk Nuuk)
-* Inflatable Mattress
+* Inflatable Mattress (Grand Canyon Cruise 3.0)
 * Tent (Xtend Adventure Breeze 2 Light)
 * Plastic Bowl
 * Aluminium Pot with Cover
@@ -71,7 +71,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 
 ## Hygene/Creams/Repellent:
 
-
+<br/>
 * Towel
 * Toothbrush
 * Toothpaste
@@ -87,7 +87,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 
 ## Survival/Medicine:
 
-
+<br/>
 * Headlamp
 * Leatherman Blast
 * Survival Belt
@@ -97,10 +97,10 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 * Coal Tablets
 * First Aid Kit
 * Wound Spray
- 
+
 ## Documents/Various:
 
-
+<br/>
 * Straps
 * Bank Card
 * Credit card
@@ -128,7 +128,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 
 ## Tools/Adhesives/Grease:
 
-
+<br/>
 * Ratchet Kit
 * Spark Plug Socket
 * Allen Key, var. sizes
@@ -156,7 +156,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 
 ## Spare Parts:
 
-
+<br/>
 * Air filter
 * Chain and sprockets
 * Oil filter
