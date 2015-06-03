@@ -66,7 +66,7 @@ A large part of the space is taken up by camping equipment, spare parts and tool
 * Spices(Salt,Pepper,Chilli)
 * Lighter/Matches
 
-## Hygene/Creams/Repellent:
+## Hygiene/Creams/Repellent:
 
 * Towel
 * Toothbrush
