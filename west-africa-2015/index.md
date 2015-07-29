@@ -9,6 +9,8 @@ The whole journey took a little over 4 months.
 We travelled on two Honda Transalp, 23 and 17 years old.
 If you're interested in what equipment we used, take a look at our [packing list]({{site.baseurl}}/west-africa-2015/packing-list).
 
+Here are all posts that I wrote on this trip:
+
 {% for post in site.categories.west-africa-2015 %}
   <article class="post" itemscope itemtype="https://schema.org/BlogPosting" role="article">
     <div class="article-item">
