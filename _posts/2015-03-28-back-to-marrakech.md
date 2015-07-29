@@ -2,7 +2,7 @@
 layout: post
 title: "Back To Marrakech"
 date: 2015-03-28 13:37:00
-categories: africa
+categories: west-africa-2015
 tags: morocco
 ---
 We spend the night in Tafraoute.

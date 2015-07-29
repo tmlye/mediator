@@ -2,7 +2,7 @@
 layout: post
 title: "From Giant Waves to Paradise"
 date: 2015-03-21 13:37:00
-categories: africa
+categories: west-africa-2015
 tags: morocco
 ---
 After Sidi Kaouki, we head to Imsouane, another surfer town.

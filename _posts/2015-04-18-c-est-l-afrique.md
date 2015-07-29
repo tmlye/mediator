@@ -2,7 +2,7 @@
 layout: post
 title: "C'est l'Afrique"
 date: 2015-04-18 13:37:00
-categories: africa
+categories: west-africa-2015
 tags: senegal
 ---
 We spend our day in Saint Louis walking through the old colonial part of town.

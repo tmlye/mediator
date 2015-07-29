@@ -2,7 +2,7 @@
 layout: post
 title: "Roundabout Madness"
 date: 2015-01-29 19:26:25
-categories: europe
+categories: west-africa-2015
 tags: france spain
 ---
 [pic0]: https://saschaeglau.com/upload/travel/2/0.jpg "French Village"

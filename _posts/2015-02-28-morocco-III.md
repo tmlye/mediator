@@ -2,7 +2,7 @@
 layout: post
 title: "Morocco III"
 date: 2015-02-28 13:37:00
-categories: africa
+categories: west-africa-2015
 tags: morocco
 ---
 We stay in Fez for 3 nights.

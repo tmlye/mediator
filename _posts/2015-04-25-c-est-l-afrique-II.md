@@ -2,7 +2,7 @@
 layout: post
 title: "C'est l'Afrique II"
 date: 2015-04-25 13:37:00
-categories: africa
+categories: west-africa-2015
 tags: senegal
 ---
 We leave the riverside camp at 7am, the only time of the day with bearable temperatures.

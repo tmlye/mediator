@@ -2,7 +2,7 @@
 layout: post
 title: "Hello Morocco"
 date: 2015-02-14 21:26:25
-categories: africa
+categories: west-africa-2015
 tags: morocco
 ---
 The ferry from Mortil (Spain) to Melilla (Spain) took around 5 hours and was mostly empty. We spend one night in Melilla and cross the border to Morocco on the next day. The border here is unusual in that Melilla is surrounded by Moroccan land and Spain spend 33 million euros to build a fence along the border, surrounding the whole city. We head there around noon. The whole process takes around three hours and is largely unorganized and inefficient. Maybe I will write about it in a separate post. With our patience well tested by bureaucracy, we head into Morocco and immediately out of the border area into the nearby mountains from which we have a nice view over the area. The fence is clearly visible, even from up here. As we go further up the mountain, we pass by a group of people which flee into the forest as they see us coming. They are obviously hiding up here, waiting for a chance to cross over into that tiny walled-in spot of Europe on the African continent, hoping for a better future and demanding nothing of us except that we give them a chance. Unfortunately, that chance is not mine to give, so I ignore the sadness and keep on driving up the curvy road.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Long Way Down"
 date: 2015-04-04 13:37:00
-categories: africa
+categories: west-africa-2015
 tags: morocco
 ---
 From Marrakech it's about 1700km to the border of Mauritania.

@@ -2,7 +2,7 @@
 layout: post
 title: "Morocco II"
 date: 2015-02-21 13:37:00
-categories: africa
+categories: west-africa-2015
 tags: morocco
 ---
 We arrive in Chefchaouen, where we meet Machmut,

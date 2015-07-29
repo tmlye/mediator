@@ -2,7 +2,7 @@
 layout: post
 title: "Everyone Needs Souvenirs"
 date: 2015-03-07 13:37:00
-categories: africa
+categories: west-africa-2015
 tags: morocco
 ---
 After visiting the gorge, we head south to Tizi-N-Tazazert, a mountain pass.

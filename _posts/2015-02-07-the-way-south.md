@@ -2,7 +2,7 @@
 layout: post
 title: "The Way South"
 date: 2015-02-07 21:26:25
-categories: europe
+categories: west-africa-2015
 tags: spain
 ---
 [madgas]: http://www.madgasmotos.com/ "Mad-Gas Motos"

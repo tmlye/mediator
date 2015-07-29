@@ -2,7 +2,7 @@
 layout: post
 title: "The Guardian Game"
 date: 2015-03-14 13:37:00
-categories: africa
+categories: west-africa-2015
 tags: morocco
 ---
 The last week was a quiet one.

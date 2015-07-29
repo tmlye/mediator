@@ -2,7 +2,7 @@
 layout: post
 title: "Mauritania"
 date: 2015-04-11 13:37:00
-categories: africa
+categories: west-africa-2015
 tags: mauritania
 ---
 Today is border crossing day, so we get up quite early and pack our bags accordingly.
