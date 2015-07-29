@@ -99,13 +99,11 @@ body
     a
       text-decoration: none
       color: #999
-      &:hover
-        color: #333
-    a
       display: block
       padding: 10px 20px
       line-height: 1.2em
       &:hover
+        color: #333
         text-decoration: none
     ul
       *zoom: 1
@@ -119,20 +117,31 @@ body
         content: ""
         display: table
         clear: both
-    ul > li
-      float: left
-      position: relative
-    li ul
-      position: absolute
-      left: -9999em
-      top: 36px
-      z-index: 1
-    li ul li
-      width: 200px
-    li ul a
-      border: none
-    ul > li:hover ul
-      left: 0
+      li
+        float: left
+        position: relative
+    li
+      text-align: left
+      &:hover ul
+        visibility: visible
+        opacity: 1
+        filter: alpha(opacity=100)
+      ul
+        position: absolute
+        left: 0
+        top: 36px
+        z-index: 1
+        visibility: hidden
+        opacity: 0
+        filter: alpha(opacity=0)
+        -webkit-transition: 300ms ease
+        -moz-transition: 300ms ease
+        -o-transition: 300ms ease
+        transition: 300ms ease
+        li
+          width: 200px
+        a
+          border: none
 
 .content
   width: 100%
@@ -535,7 +544,7 @@ body
     max-width: 640px
     padding: 0 0 90px
     text-align: center
-    margin: 0 auto
+    margin: 40px auto
     .blog-title
       margin: 0
       padding: 0 0 10px
