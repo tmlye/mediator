@@ -3,7 +3,7 @@ layout: page
 title: Packing List
 permalink: /west-africa-2015/packing-list/
 ---
-This is our packing list for the 4 month long journey.
+This is our packing list for our 4 month long journey through west africa.
 There are some things on this list which are not really needed, but we took them because we had space.
 A large part of the space is taken up by camping equipment, spare parts and tools.
 
