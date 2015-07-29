@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Packing List
-permalink: /packing-list/
+permalink: /west-africa-2015/packing-list/
 ---
 This is our packing list for the 4 month long journey.
 There are some things on this list which are not really needed, but we took them because we had space.

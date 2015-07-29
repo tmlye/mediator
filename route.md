@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Route
-permalink: /route/
+permalink: /west-africa-2015/route/
 ---
 The map below shows the route we've taken so far.
 
