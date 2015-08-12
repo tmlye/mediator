@@ -2,31 +2,31 @@
 layout: default
 ---
 
-{% if site.cover %}
-<div class="cover">
-    {% picture default {{ site.cover }} %}
-</div>
-{% endif %}
+<div id="container" class="container intro-effect-jam3">
 
 <header class="blog-header">
-    {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
+    {% if site.cover %}
+    <div class="bg-img">
+        {% picture default {{ site.cover }} %}
+    </div>
     {% endif %}
-    <h1 class="blog-title">{{ site.title }}</h1>
-    <h2 class="blog-description">{{ site.description }}</h2>
-    <nav class="nav">
-      <ul>
-        <li><a href="#posts">Posts</a></li>
-        <li>
-          <a href="#">Trips</a>
+    <div class="title">
+        <h1 class="blog-title">{{ site.title }}</h1>
+        <h2 class="blog-description">{{ site.description }}</h2>
+        <nav class="nav">
           <ul>
+            <li><a class="trigger" href="#posts">Posts</a></li>
             <li>
-              <a href="{{site.baseurl}}/west-africa-2015/">West Africa 2015</a>
+              <a href="#">Trips</a>
+              <ul>
+                <li>
+                  <a href="{{site.baseurl}}/west-africa-2015/">West Africa 2015</a>
+                </li>
+              </ul>
             </li>
+            <li><a href="{{site.baseurl}}/about/">About</a></li>
           </ul>
-        </li>
-        <li><a href="{{site.baseurl}}/about/">About</a></li>
-      </ul>
+        </nav>
     </div>
 </header>
 
@@ -92,3 +92,5 @@ layout: default
       {% endif %}
     </nav>
 </main>
+
+</div>
