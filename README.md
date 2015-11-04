@@ -1,3 +1,9 @@
+This repo contains my travel blog.
+It is hosted [here](https://saschaeglau.com/travel) and based on the mediator jekyll theme.
+I modified the theme, but the general look is the same.
+Here's the original readme:
+
+
 mediator
 ========
 
