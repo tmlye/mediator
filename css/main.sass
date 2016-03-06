@@ -17,6 +17,7 @@ $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 
 body
   height: 100%
+  width: 100%
   font-family: $font-sans
   margin: 0
   padding: 0
@@ -37,6 +38,7 @@ body
   backface-visibility: hidden
   img
     position: absolute
+    overflow: hidden
     top: 0
     left: 0
     display: block
@@ -44,16 +46,9 @@ body
     min-height: 100%
 
 .blog-header
-  // position: relative
-  margin: 0 auto
-  width: 100%
-  height: 100%
-  padding: 0
   .title
     z-index: 1000
-    margin: 0 auto
     padding: 0 1.25em
-    width: 100%
     text-align: center
     position: absolute
     top: 65%
@@ -61,7 +56,7 @@ body
     -webkit-transform: translateX(-50%) translateY(-50%)
     transform: translateX(-50%) translateY(-50%)
     .blog-title
-      margin: 0 auto
+      margin: 0
       padding: 0 0 0.2em
       font-size: 3.25em
       font-weight: 700
@@ -79,7 +74,6 @@ body
       font-weight: 400
     .nav
       margin: 0 auto
-      width: 250px
       text-align: center
       color: #ddd
       a
@@ -93,7 +87,6 @@ body
           text-decoration: none
       ul
         list-style: none
-        margin: 0
         padding: 0
         &:before
           content: ""
@@ -103,10 +96,9 @@ body
           display: table
           clear: both
         li
-          float: left
-          position: relative
+          display: inline-block
       li
-        text-align: left
+        text-align: center
         &:hover ul
           visibility: visible
           opacity: 1
@@ -335,7 +327,6 @@ body
       text-overflow: ellipsis
   .post-content
     width: 100%
-    font-family: $font-serif
     color: #333
     h1, h2, h3
       font-family: $font-sans
@@ -600,4 +591,4 @@ pre
     padding-right: 0
     padding-left: 0
 
-@import "jam3.sass"
+@import "jam3"
