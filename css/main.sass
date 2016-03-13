@@ -73,13 +73,10 @@ body
       color: #fff
       font-weight: 400
     .nav
-      margin: 0 auto
-      text-align: center
-      color: #ddd
       a
+        display: block
         text-decoration: none
         color: #ddd
-        display: block
         padding: 10px 20px
         line-height: 1.2em
         &:hover
@@ -97,29 +94,18 @@ body
           clear: both
         li
           display: inline-block
-      li
-        text-align: center
-        &:hover ul
-          visibility: visible
-          opacity: 1
-          filter: alpha(opacity=100)
+          position: relative
+          &:hover ul
+            left: 0
         ul
+          list-style: none
           position: absolute
-          left: 0
-          top: 36px
-          z-index: 1
-          visibility: hidden
-          opacity: 0
-          filter: alpha(opacity=0)
-          -webkit-transition: 300ms ease
-          -moz-transition: 300ms ease
-          -o-transition: 300ms ease
-          transition: 300ms ease
+          left: -9999px
+          width: 200px
           li
-            width: 200px
-          a
-            border: none
-
+            float: left
+            a
+              padding-top: 0
 .content
   width: 100%
   max-width: 640px
